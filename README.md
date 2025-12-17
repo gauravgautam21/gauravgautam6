@@ -98,7 +98,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/gauravgautam6/gauravgautam6/output/snake.svg" alt="Snake animation" />
-
-###
